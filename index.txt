@@ -1,0 +1,116 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Ryan Wendt
+Ryan Wendt
+Electrical Engineer
+
+Show Contacts
+
+Email
+rwendt@terpmail.umd.edu
+
+Phone
+315-412-8559
+
+Birthday
+August 30, 2003
+
+Location
+Syracuse, NY
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I am an undergraduate student studying Electrical and Electronics Engineering (EE) at the University of Maryland, College Park. 
+I have been a STEM instructor for 4th and 5th grade students in Syracuse, N.Y, and I am now a member of the Aerodynamics Team for TerpsRacing at UMD. 
+I am actively searching for opportunities to help me gain relevant experience in my Engineering discipline, and I wish to attend graduate school following my undergraduate studies.
+
+What i'm doing
+
+alt = Electrical Engineering Student
+Second Year EE Student
+High-quality development of circuits and signal analysis at the University level. 
+
+# Honors & awards
+
+alt = Arnold A. Korab Endowed Scholarship
+
+Issued by University of Maryland · Jul 2023
+
+Associated with University of Maryland
+Scholarship is given to outstanding students within the department of Electrical and Computer Engineering within the A. James Clark School of Engineering.
+
+alt = Alpha Lambda Delta Honor Society: UMD Chapter
+Issued by University of Maryland · Feb 2023
+
+Associated with University of Maryland
+The Alpha Lambda Delta Chapter at the University of Maryland is an invite only, selective honor society within the University. Students with a 3.5 GPA or higher are eligible for an invitation into the Chapter
+Alpha Lambda Delta Honor Society: UMD Chapter
+Issued by University of Maryland · Feb 2023
+
+
+# Resume
+
+Resume:
+
+Education:
+
+University of Maryland: College Park
+2022 - Present
+Activities and societies: UMD Intramural Golf and Basketball, TerpsRacing (Aerodynamics Team), Chess Club, Alpha Lambda Delta: UMD Chapter
+
+Christian Brothers Academy
+2016- 2022
+National Honor Society, Honor Roll 2016 - 2022, 99.8 gpa, Robotics Club
+
+Experience:
+
+Pro Shop Attendant and Sales Associate
+Drumlins Country Club · Seasonal
+Jun 2023 - Present
+Syracuse, New York, United States
+I attend to the Drumlins Pro Shop, assisting customers by scheduling tee times, as well as conducting merchandise sales. Moreover, I assist in overseeing the golf bagging/cart staff.
+
+Electrical Engineering Intern, Novelis Corporation                                                                                  
+May 2024 – September 2024
+Provide support for various Electrical Engineering Projects.
+Work with industrial machinery, motor controls, software programming, and state of art PLC systems.
+Work under the supervision of staff engineers on control plans, system testing, and machine commissioning.
+
+Engineering-
+CAD Modeling – Utilized in an academic setting in ENES100, as well as have robotics experience designing autonomous systems in High School
+Laser-Cutting, 3D Modeling - Utilized in an academic setting in ENES100, as well as have robotics experience designing autonomous systems in High School
+Circuit Modeling and Building - Utilized in an academic setting in ENES100, and ENEE101, as well as have robotics experience designing autonomous systems in High School
+
+Programming Languages-
+C – Utilized in an academic setting, completed programming dedicated sequence of ENEE140 and ENEE150
+MATLAB  ¬– Currently using in an academic setting
+
+
+
+# SERVICE
+
+Bridge to Brothers – Assistant Teacher, Student Mentor, Counselor				                 
+July 2021 – August 2022
+
+Provided education to inner-city youth in Syracuse 
+Educated 5th and 6th grade students on different areas of STEM, as well as Music and English
+Worked daily over the course of the summer, program continued Saturday’s once a month during the academic year
+
+Blessed Sacrament Fish Fry – Cook, Delivery Service						  
+March 2021 – April 2022
+
+Volunteered at Blessed Sacrament Church in Syracuse, providing fish meals during the Lenten season
+Worked delivering meals to cars outside during first year, promoted to cook in Feb. 2022
+The Fish Fry is a fundraiser for the church every year during the Lenten season
